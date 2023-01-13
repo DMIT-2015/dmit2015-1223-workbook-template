@@ -1,9 +1,8 @@
-# DMIT2015 Winter 2023 Term assignments
+# DMIT2015 Winter 2023 Term Workbook Repository
 
 ## your name here
 
 ## your Github Account id
 
-This is a private repository for your assignments. 
-You will use this only for evaluation work. 
-Assignment work not submitted within this repository will not be evaluated.
+This is a public repository for in-class code along activities and exercises.
+
