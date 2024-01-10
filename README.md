@@ -1,4 +1,4 @@
-# DMIT2015 Fall 2023 Term Workbook Repository
+# DMIT2015 Winter 2024 Term Workbook Repository
 
 ## your name here
 
