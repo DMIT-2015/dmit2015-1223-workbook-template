@@ -122,6 +122,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
+http-client.private.env.json
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
